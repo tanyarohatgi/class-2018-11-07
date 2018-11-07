@@ -51,3 +51,4 @@ z %>%
 # 8. Create a Shiny App which displays the histogram of b, allowing the user to
 # subset the display for specific values of c.
 
+write_rds(z, "z.rds")
